@@ -1,0 +1,102 @@
+#tab {
+  position: absolute;
+  left: 466px;
+  top: 167px;
+}
+
+tr {
+  display: block;
+  height: 25px;
+  margin-top: 2px;
+}
+
+td {
+  display: inline-block;
+  height: 25px;
+  width: 25px;
+  border: 1px solid black;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#pf {
+  position: absolute;
+  z-index: -1;
+  height: 650px;
+  width: auto;
+}
+
+#lupe {
+  position: absolute;
+  top: 410px;
+  left: 61px;
+}
+
+.virus {
+  position: absolute;
+}
+
+#reka {
+  position: absolute;
+  left: 547px;
+  top: 3px;
+}
+
+#lost {
+  position: absolute;
+  width: 205px;
+  height: auto;
+  left: 810px;
+  top: 75px;
+  visibility: hidden;
+}
+
+#go {
+  position: absolute;
+  left: 410px;
+  top: 300px;
+  visibility: hidden;
+}
+
+#sc {
+  position: absolute;
+  left: 366px;
+  top: 300px;
+  visibility: hidden;
+}
+
+#p1,
+#p2 {
+  position: absolute;
+  top: 576px;
+  width: 28px;
+  height: auto;
+}
+
+#p1 {
+  left: 956px;
+}
+
+#p2 {
+  left: 984px;
+}
+
+.s {
+  margin: -2px;
+  width: 28px;
+  height: auto;
+}
+
+#score,
+#top {
+  position: absolute;
+  left: 140px;
+}
+
+#score {
+  top: 225px;
+}
+
+#top {
+  top: 144px;
+}
